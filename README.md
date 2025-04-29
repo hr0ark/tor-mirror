@@ -1,0 +1,12 @@
+# [Tor browser](https://torproject.org) mirror to download binaries/executables (including Android and [Orbot](https://github.com/guardianproject/orbot))
+
+**Features:**
+- Works in 2025
+- Weakly releases
+- [Fully automated via GitHub actions](https://github.com/hr0ark/tor-mirror/actions/workflows/ci.yml)
+- All platforms
+- [Orbot](https://github.com/guardianproject/orbot) included - Tor networks as full-device VPN
+
+## Download
+- [The latest release](https://github.com/hr0ark/tor-mirror/releases/latest)
+
